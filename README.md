@@ -1,5 +1,5 @@
 # UM Rename of Role Display Names
-Code snippet to support renaming of UM Role Display Names when being renamed by other Role Editor plugins.
+Code snippet to support renaming of UM Role Display Names when being renamed by Role Editor plugins.
 
 This code snippet will also recover from earlier failed User Roles renames where UM is listing the User Role without a Display Name.
 

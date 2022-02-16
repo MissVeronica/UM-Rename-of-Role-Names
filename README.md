@@ -9,7 +9,7 @@ Make sure that the current Role Name displayed by WP or your Role Editor plugin 
 
 Rollback any old attempts that failed to change the UM Role Display Name so WP and UM have equal Display Names. 
 ### Without existing UM Role Display Name
-Make a rename of the User Role Display Name and the UM Role Display Name will be recovered with the new name.
+Make a rename of the User Role Display Name and the UM Role Display Name will be recovered with the new Display Name.
 ## Installation
 Add the php source code to your child-theme's functions.php file
 

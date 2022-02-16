@@ -1,5 +1,5 @@
 # UM Rename of Role Names
-Code snippet to support renaming of UM Roles when being renamed by other plugins.
+Code snippet to support renaming of UM Roles when being renamed by other Role Editor plugins.
 
 ## Requirement
 Make sure that the current Role Name displayed by WP or your Role Editor plugin is equal to the Role Name displayed by UM before doing a Role Name change. Rollback any old attempts that failed to change the UM Role Name.

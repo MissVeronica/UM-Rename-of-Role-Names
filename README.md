@@ -21,4 +21,4 @@ Tested with: https://wordpress.org/plugins/user-role-editor/
 
 ## Trace the Rename process
 The code snippet "source_trace.php" will display for each UM Role the Rename process.
-If you have the PHP Error Log turned “On” the tracing text is written as "PHP Notice" for each UM Role to the PHP Error Log otherwise a log can be displayed with your browser at yourdomain/wp-content/umroles.html
+If you have the PHP Error Log turned “On” the tracing text is written as "PHP Notice" for each UM Role to the PHP Error Log otherwise the trace log can be displayed with your browser at yourdomain/wp-content/umroles.html

@@ -15,7 +15,7 @@ Make a rename of the User Role Display Name and the UM Role Display Name will be
 ## Installation
 Add the php source code snippet "source.php" to your child-theme's functions.php file
 
-The "Code Snippets" plugin will NOT execute the code snippet.
+or use the "Code Snippets" Plugin: https://wordpress.org/plugins/code-snippets/
 ## User Role Editor
 Tested with: https://wordpress.org/plugins/user-role-editor/
 

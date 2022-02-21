@@ -1,5 +1,6 @@
 <?php
 
+global $wpdb;
 
 add_action( "update_option_{$wpdb->prefix}user_roles", 'my_um_role_update_name', 10, 3 );
 
